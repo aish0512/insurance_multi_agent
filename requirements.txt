@@ -43,8 +43,8 @@ jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 jupyter-client
 jupyter_core 
-langchain==0.2.11
-langchain-community==0.2.11
+langchain
+langchain-community
 langchain-core==0.2.29
 langchain-openai==0.1.20
 langchain-text-splitters==0.2.2
