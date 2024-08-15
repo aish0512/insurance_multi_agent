@@ -81,6 +81,7 @@ pydantic==2.8.2
 pydantic_core==2.20.1
 pydeck==0.9.1
 Pygments 
+python-dotenv
 python-dateutil 
 python-docx==1.1.2
 pytz==2024.1
